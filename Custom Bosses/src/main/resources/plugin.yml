@@ -1,0 +1,8 @@
+name: CustomBosses
+version: ${project.version}
+main: me.burzakrual.customboss.main
+api-version: 1.16
+authors: [ BurzaKrual ]
+commands:
+  custommobs:
+    description: main command for mob spawning
